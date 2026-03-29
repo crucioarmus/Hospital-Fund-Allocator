@@ -1,0 +1,14 @@
+# VS Code settings (machine-specific, causes conflicts)
+.vscode/
+
+# Compiled executables
+*.exe
+*.out
+*.o
+
+# Debug files
+*.dSYM/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
